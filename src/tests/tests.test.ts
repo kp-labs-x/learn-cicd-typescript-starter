@@ -6,7 +6,7 @@ const person = {
   age: 32,
 };
 
-test("getAPIKey returns the API key, () => {
+test("getAPIKey returns the API key", () => {
   const headers = {
     authorization: "Apikey banana789",
   };
