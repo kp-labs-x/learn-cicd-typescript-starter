@@ -8,7 +8,7 @@ const person = {
 
 test("getAPIKey returns the API key", () => {
   const headers = {
-    authorization: "Apikey banana789",
+    authorization: "ApiKey banana789",
   };
 
   const result = getAPIKey(headers);
