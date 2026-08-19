@@ -13,7 +13,7 @@ test("getAPIKey returns the API key", () => {
 
   const result = getAPIKey(headers);
 
-  expect(result).toBe("banana789);
+  expect(result).toBe("banana789");
 });
 
 describe("person", () => {
