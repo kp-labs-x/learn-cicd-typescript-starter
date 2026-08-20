@@ -1,10 +1,11 @@
 # learn-cicd-typescript-starter (Notely)
 
-![This is my badge](https://github.com/kp-labs-x/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 This repo contains the typescript starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
 ## Local Development
+
+![This is my badge](https://github.com/kp-labs-x/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 Make sure you're on Node version 22+.
 
